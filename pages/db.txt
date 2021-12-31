@@ -1,0 +1,1 @@
+Potato, 25 Taka, 100 Kilograms, Vegetable, Yellow, ../assests/img/upload/potato.jpg#Onion, 30 Taka, 120 Kilograms, Vegetable, Red, ../assests/img/upload/onion.jpg#Chilli, 20 Taka, 150 Kilograms, Vegetable, Green, ../assests/img/upload/chilli.jpg#
